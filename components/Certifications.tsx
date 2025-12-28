@@ -80,10 +80,10 @@ const Certifications: React.FC = () => {
                     <h3 className="font-bold text-lg text-[#2D2D2D] leading-tight mb-2">{cert.name}</h3>
                     <p className="text-sm text-[#8B7E66] font-medium">{cert.issuer}</p>
                   </div>
-                  <div className="mt-4 pt-4 border-t border-gray-50 flex justify-between items-center text-xs text-[#5C5346] opacity-60">
+                  {/* <div className="mt-4 pt-4 border-t border-gray-50 flex justify-between items-center text-xs text-[#5C5346] opacity-60">
                     <span className="uppercase tracking-widest font-semibold"><pre>Cred ID Verified</pre></span>
                     <span>{cert.date}</span>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             ))}
