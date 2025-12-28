@@ -9,7 +9,8 @@ const About: React.FC = () => {
           <div className="w-64 h-64 md:w-80 md:h-80 relative flex-shrink-0">
             <div className="absolute inset-0 bg-[#D2B48C] rounded-2xl transform rotate-6 scale-95 opacity-20"></div>
             <img 
-              src='../public/about.jpg'
+              // src='../public/about.jpg'
+              src='/about.jpg'
               alt="Sriya Kotagiriwar" 
               className="w-full h-full object-cover rounded-2xl relative z-10 beige-glow border-4 border-white"
             />
