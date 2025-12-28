@@ -1,0 +1,8 @@
+{
+  "name": "Sriya Kotagiriwar Portfolio",
+  "description": "A sophisticated light-beige themed portfolio for Sriya Kotagiriwar, a Computer Science student with expertise in full-stack development and AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
