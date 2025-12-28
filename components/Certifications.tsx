@@ -35,7 +35,7 @@ const Certifications: React.FC = () => {
             aria-label="Previous"
           >
             <img
-              src="/public/left-arrow.png"
+              src="/left-arrow.png"
               alt="Previous"
               className="w-5 h-5"
             />
@@ -50,7 +50,7 @@ const Certifications: React.FC = () => {
             aria-label="Next"
           >
             <img
-              src="/public/right-arrow.png"
+              src="/right-arrow.png"
               alt="Next"
               className="w-5 h-5"
             />
